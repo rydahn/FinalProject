@@ -1,0 +1,30 @@
+Jesus Ramos
+CIS129
+21339
+05/19/2024
+
+Pseudocode
+
+Task Management System
+•	Initiation: Set up the initial lists and objects such as tasks, events, users, integrations, leaderboard, and virtual assistant.
+•	User Management: Functions to add users and find users by ID.
+•	Task Management: Functions to create and prioritize tasks.
+•	Event Scheduling: Functions to schedule events.
+•	Integration with Other Tools: Functions to add email and learning platform integrations.
+•	Gamification Features: Functions to complete tasks and update points and view the leaderboard.
+•	Social Features: Functions to add friends and send messages.
+
+Supporting Classes
+•	User: Manage user attributes and actions like adding tasks, events, integrations, friends, earning points, and receiving messages.
+•	Task: Manage task attributes and actions like setting priority and marking as complete.
+•	Event: Manage event attributes.
+•	Email Integration: Handle email integration details.
+•	Learning Platform Integration: Handle learning platform integration details.
+•	Leaderboard: Manage and update leaderboard based on user points.
+•	Virtual Assistant: Provide feedback to users.
+
+Utility Functions
+•	Find user by ID: Locate a user by their ID.
+•	Generate unique task ID: Create a unique ID for each task.
+•	Generate unique event ID: Create a unique ID for each event.
+•	Find task by ID: Locate a task by its ID.
